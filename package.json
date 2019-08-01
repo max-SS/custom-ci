@@ -20,7 +20,6 @@
         "url": "https://github.com/reyesoft/ci"
     },
     "dependencies": {
-        "eslint": "4.18.2",
         "codelyzer": "4.2.1",
         "jest": "24.8.0",
         "jest-preset-angular": "3.0.1",
